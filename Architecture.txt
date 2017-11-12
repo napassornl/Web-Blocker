@@ -1,0 +1,4 @@
+Program Architecture
+
+Host file path for Mac:
+/etc/hosts
